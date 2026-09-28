@@ -1,0 +1,11 @@
+{
+  "projectId": "prj_0199b2c0a1d27f3e8b4c5d6e7f809a2c",
+  "projectKey": "autarkeia-factory-probe-2",
+  "service": "autarkeia-factory-probe-2",
+  "name": "AUTARKEIA factory probe 2",
+  "template": {
+    "id": "node-service",
+    "version": 1,
+    "hash": "abcb1f8a1a32ce96bb6d8b5053fba97c7b97e80ed69177ae2dc7c8918265fdd1"
+  }
+}
